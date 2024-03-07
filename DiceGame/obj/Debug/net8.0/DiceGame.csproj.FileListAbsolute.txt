@@ -1,0 +1,15 @@
+/Users/mowahidlatif/Code/C# Games/DiceGame/bin/Debug/net8.0/DiceGame
+/Users/mowahidlatif/Code/C# Games/DiceGame/bin/Debug/net8.0/DiceGame.deps.json
+/Users/mowahidlatif/Code/C# Games/DiceGame/bin/Debug/net8.0/DiceGame.runtimeconfig.json
+/Users/mowahidlatif/Code/C# Games/DiceGame/bin/Debug/net8.0/DiceGame.dll
+/Users/mowahidlatif/Code/C# Games/DiceGame/bin/Debug/net8.0/DiceGame.pdb
+/Users/mowahidlatif/Code/C# Games/DiceGame/obj/Debug/net8.0/DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mowahidlatif/Code/C# Games/DiceGame/obj/Debug/net8.0/DiceGame.AssemblyInfoInputs.cache
+/Users/mowahidlatif/Code/C# Games/DiceGame/obj/Debug/net8.0/DiceGame.AssemblyInfo.cs
+/Users/mowahidlatif/Code/C# Games/DiceGame/obj/Debug/net8.0/DiceGame.csproj.CoreCompileInputs.cache
+/Users/mowahidlatif/Code/C# Games/DiceGame/obj/Debug/net8.0/DiceGame.sourcelink.json
+/Users/mowahidlatif/Code/C# Games/DiceGame/obj/Debug/net8.0/DiceGame.dll
+/Users/mowahidlatif/Code/C# Games/DiceGame/obj/Debug/net8.0/refint/DiceGame.dll
+/Users/mowahidlatif/Code/C# Games/DiceGame/obj/Debug/net8.0/DiceGame.pdb
+/Users/mowahidlatif/Code/C# Games/DiceGame/obj/Debug/net8.0/DiceGame.genruntimeconfig.cache
+/Users/mowahidlatif/Code/C# Games/DiceGame/obj/Debug/net8.0/ref/DiceGame.dll
