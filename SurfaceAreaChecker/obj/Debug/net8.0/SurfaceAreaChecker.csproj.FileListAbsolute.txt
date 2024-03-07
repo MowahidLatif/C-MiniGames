@@ -1,0 +1,15 @@
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/obj/Debug/net8.0/SurfaceAreaChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/obj/Debug/net8.0/SurfaceAreaChecker.AssemblyInfoInputs.cache
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/obj/Debug/net8.0/SurfaceAreaChecker.AssemblyInfo.cs
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/obj/Debug/net8.0/SurfaceAreaChecker.csproj.CoreCompileInputs.cache
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/obj/Debug/net8.0/SurfaceAreaChecker.sourcelink.json
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/bin/Debug/net8.0/SurfaceAreaChecker
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/bin/Debug/net8.0/SurfaceAreaChecker.deps.json
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/bin/Debug/net8.0/SurfaceAreaChecker.runtimeconfig.json
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/bin/Debug/net8.0/SurfaceAreaChecker.dll
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/bin/Debug/net8.0/SurfaceAreaChecker.pdb
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/obj/Debug/net8.0/SurfaceAreaChecker.dll
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/obj/Debug/net8.0/refint/SurfaceAreaChecker.dll
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/obj/Debug/net8.0/SurfaceAreaChecker.pdb
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/obj/Debug/net8.0/SurfaceAreaChecker.genruntimeconfig.cache
+/Users/mowahidlatif/Code/C# Games/SurfaceAreaChecker/obj/Debug/net8.0/ref/SurfaceAreaChecker.dll
