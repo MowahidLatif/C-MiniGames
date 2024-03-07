@@ -1,0 +1,15 @@
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/obj/Debug/net8.0/NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/obj/Debug/net8.0/NumberGuesser.AssemblyInfoInputs.cache
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/obj/Debug/net8.0/NumberGuesser.AssemblyInfo.cs
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/obj/Debug/net8.0/NumberGuesser.csproj.CoreCompileInputs.cache
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/obj/Debug/net8.0/NumberGuesser.sourcelink.json
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/bin/Debug/net8.0/NumberGuesser
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/bin/Debug/net8.0/NumberGuesser.deps.json
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/bin/Debug/net8.0/NumberGuesser.runtimeconfig.json
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/bin/Debug/net8.0/NumberGuesser.dll
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/bin/Debug/net8.0/NumberGuesser.pdb
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/obj/Debug/net8.0/NumberGuesser.dll
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/obj/Debug/net8.0/refint/NumberGuesser.dll
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/obj/Debug/net8.0/NumberGuesser.pdb
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/obj/Debug/net8.0/NumberGuesser.genruntimeconfig.cache
+/Users/mowahidlatif/Code/C# Games/NumberGuesser/obj/Debug/net8.0/ref/NumberGuesser.dll
