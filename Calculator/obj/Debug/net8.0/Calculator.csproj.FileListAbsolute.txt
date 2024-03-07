@@ -1,0 +1,15 @@
+/Users/mowahidlatif/Code/C# Games/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mowahidlatif/Code/C# Games/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/Users/mowahidlatif/Code/C# Games/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/Users/mowahidlatif/Code/C# Games/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/mowahidlatif/Code/C# Games/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/Users/mowahidlatif/Code/C# Games/Calculator/bin/Debug/net8.0/Calculator
+/Users/mowahidlatif/Code/C# Games/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/Users/mowahidlatif/Code/C# Games/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/Users/mowahidlatif/Code/C# Games/Calculator/bin/Debug/net8.0/Calculator.dll
+/Users/mowahidlatif/Code/C# Games/Calculator/bin/Debug/net8.0/Calculator.pdb
+/Users/mowahidlatif/Code/C# Games/Calculator/obj/Debug/net8.0/Calculator.dll
+/Users/mowahidlatif/Code/C# Games/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/Users/mowahidlatif/Code/C# Games/Calculator/obj/Debug/net8.0/Calculator.pdb
+/Users/mowahidlatif/Code/C# Games/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/Users/mowahidlatif/Code/C# Games/Calculator/obj/Debug/net8.0/ref/Calculator.dll
